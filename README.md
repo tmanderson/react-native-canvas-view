@@ -1,6 +1,6 @@
 ## React Native Canvas View
 
-An [iOS-only*][asterik] React Native component implementing a drawable canvas. Allows for
+An [iOS-only*](#note) React Native component implementing a drawable canvas. Allows for
 explicit [`controlled`](https://facebook.github.io/react/docs/forms.html#controlled-components)
 behavior (using `paths` and `active={false}`) or allow the view to take care of
 user input itself.
@@ -30,6 +30,7 @@ Paths can be used if you'd like to manage the user input yourself
 }
 ```
 
-[asterik]: I made this for a personal unpublished application, but figured someone else may
+###### note
+I made this for a personal unpublished application, but figured someone else may
 find it useful, as the React Native module AND component process is a pain (and
 slightly moreso if Swift is involved).
