@@ -12,7 +12,7 @@ user input itself.
 - `paths:[Path]` - Explicitly set the paths drawn on the canvas (allows for a `controlled` canvas)
 
 ### ViewSnapshot Module
-The actual react component (see the [components](#/components) directory) takes
+The actual react component (see the [components](components) directory) takes
 care of any extra effort in taking a photo of the canvas.
 
 #### `ViewSnapshot.getSnapshot(:reactNativeViewId) => Promise.resolve(dataURL)`
