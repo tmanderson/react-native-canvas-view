@@ -30,6 +30,8 @@ Paths can be used if you'd like to manage the user input yourself
 }
 ```
 
+![screencap](canvas-view.gif "Canvas View screen capture")
+
 [asterik]: I made this for a personal unpublished application, but figured someone else may
 find it useful, as the React Native module AND component process is a pain (and
 slightly moreso if Swift is involved).
